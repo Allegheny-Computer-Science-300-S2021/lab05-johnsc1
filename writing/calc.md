@@ -24,11 +24,11 @@ a)
 
 
 b)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               A != T is a mismatch
+- Left entry calculation:          -1 - 1 = -2
+- Above entry calculation:         -2 - 1 = -
+- Diagonal entry calculation:      -1 + 0 = -1
+- Max score: -1 from the Diagonal
 
 
 c)
