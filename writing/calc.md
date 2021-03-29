@@ -56,11 +56,11 @@ e)
 
 
 f)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               G != T is a mismatch
+- Left entry calculation:          -1 - 1 = -2
+- Above entry calculation:         2 - 1 = 1
+- Diagonal entry calculation:      0 - 1 = -1
+- Max score: 1 from Above
 
 
 
