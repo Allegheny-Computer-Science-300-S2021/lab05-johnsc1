@@ -1,4 +1,4 @@
-#### Name: Add Your Name Here
+#### Name: Claire Johns
 #### Date: 29 March 2021
 #### What this is: Calculations from the manual work out of the Needleman-Wunsch algorithm.
 
