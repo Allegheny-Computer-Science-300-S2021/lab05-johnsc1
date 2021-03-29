@@ -40,19 +40,19 @@ c)
 
 
 d)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               T = T is a match
+- Left entry calculation:          0 - 1 = -1
+- Above entry calculation:         -1 - 1 = -2
+- Diagonal entry calculation:      1 + 1 = 2
+- Max score: 2 from the Diagonal   
 
 
 e)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               G != A is a mismatch
+- Left entry calculation:          -3 - 1 = -4
+- Above entry calculation:         0 - 1 = -1
+- Diagonal entry calculation:      -2 - 1 = -3
+- Max score: -1 from Above
 
 
 f)
