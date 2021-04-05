@@ -43,7 +43,7 @@ affected humans is more similar to the sequence from 2007 than the sequence in
 
  3. Statistics: What were the numbers of Lengths, Similarities, Gaps and Scores for each of your alignment tasks?
 
-**2005 & 2006**
+[2005 & 2006](images/2005_2006.png)
 ```
 Length: 1776
 Similarity:  1690/1776 (95.2%)
